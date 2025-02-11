@@ -62,11 +62,39 @@
       <description>Mission de 18 mois chez Force Femmes - Développement d&amp;#39;un extranet de gestion d&amp;#39;ateliers</description>
     </item>
     <item>
+      <title>Développeur Système IA</title>
+      <link>https://amatisse.github.io/fr/experiences/acensi_ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://amatisse.github.io/fr/experiences/acensi_ai/</guid>
+      <description>Développement d&amp;#39;un système IA pour la gestion des tickets techniques</description>
+    </item>
+    <item>
       <title>Développeur web</title>
       <link>https://amatisse.github.io/fr/experiences/dreal_bretagne/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://amatisse.github.io/fr/experiences/dreal_bretagne/</guid>
       <description>Stage de 2 mois à la DREAL Bretagne - Modernisation d&amp;#39;applications web</description>
+    </item>
+    <item>
+      <title>Ingénieur DevOps Automation</title>
+      <link>https://amatisse.github.io/fr/experiences/top_aces/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://amatisse.github.io/fr/experiences/top_aces/</guid>
+      <description>Implémentation d&amp;#39;une automatisation Microsoft Forms vers Azure DevOps</description>
+    </item>
+    <item>
+      <title>Spécialiste en Automatisation des Flux</title>
+      <link>https://amatisse.github.io/fr/experiences/acensi_automation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://amatisse.github.io/fr/experiences/acensi_automation/</guid>
+      <description>Implémentation d&amp;#39;un système d&amp;#39;automatisation des flux internes</description>
+    </item>
+    <item>
+      <title>Spécialiste en Automatisation SharePoint</title>
+      <link>https://amatisse.github.io/fr/experiences/groupe_carbur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://amatisse.github.io/fr/experiences/groupe_carbur/</guid>
+      <description>Implémentation d&amp;#39;automatisation de listes SharePoint</description>
     </item>
   </channel>
 </rss>

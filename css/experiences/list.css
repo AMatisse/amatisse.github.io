@@ -50,6 +50,43 @@
     color: #64748b;
 }
 
+.experiences-content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    max-width: 800px;
+}
+
+.filter-buttons {
+    display: flex;
+    gap: 1rem;
+    padding: 0 1rem;
+}
+
+.filter-btn {
+    padding: 0.5rem 1.5rem;
+    border-radius: 20px;
+    border: 1px solid rgba(99, 102, 241, 0.2);
+    background: rgba(255, 255, 255, 0.95);
+    color: #64748b;
+    font-size: 0.875rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.filter-btn:hover {
+    background: rgba(99, 102, 241, 0.1);
+    color: #8b5cf6;
+}
+
+.filter-btn.active {
+    background: #8b5cf6;
+    color: white;
+    border-color: #8b5cf6;
+}
+
 .experiences-grid {
     flex: 1;
     display: grid;
@@ -141,6 +178,21 @@
     font-size: 0.875rem;
 }
 
+.location {
+    color: #64748b;
+    font-size: 0.875rem;
+    font-weight: 500;
+    margin-bottom: 1.5rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.location::before {
+    content: '📍';
+    font-size: 0.875rem;
+}
+
 .technologies {
     display: flex;
     flex-wrap: wrap;
@@ -172,6 +224,24 @@
 .tech-icon {
     width: 16px;
     height: 16px;
+}
+
+.tech-icon.hidden {
+    display: none;
+}
+
+@font-face {
+    font-family: 'NotoColorEmojiLimited';
+    unicode-range: U+1F1E6-1F1FF;
+    src: url(https://raw.githack.com/googlefonts/noto-emoji/main/fonts/NotoColorEmoji.ttf);
+}
+
+.flag {
+    display: inline-block;
+    font-size: 1.2em;
+    margin-right: 0.5em;
+    font-family: 'NotoColorEmojiLimited', -apple-system, BlinkMacSystemFont, "Segoe UI Emoji", "Segoe UI Symbol";
+    font-display: block;
 }
 
 @media (max-width: 1280px) {
@@ -206,6 +276,11 @@
 
     .experiences-grid {
         padding: 0;
+    }
+    
+    .filter-buttons {
+        padding: 0;
+        flex-wrap: wrap;
     }
 }
 
@@ -244,7 +319,8 @@
     color: #818cf8;
 }
 
-.dark .duration {
+.dark .duration,
+.dark .location {
     color: #64748b;
 }
 
@@ -256,4 +332,21 @@
 
 .dark .technologies {
     border-color: rgba(255, 255, 255, 0.1);
+}
+
+.dark .filter-btn {
+    background: rgba(30, 41, 59, 0.95);
+    color: #94a3b8;
+    border-color: rgba(99, 102, 241, 0.3);
+}
+
+.dark .filter-btn:hover {
+    background: rgba(99, 102, 241, 0.15);
+    color: #818cf8;
+}
+
+.dark .filter-btn.active {
+    background: #818cf8;
+    color: #1e293b;
+    border-color: #818cf8;
 }

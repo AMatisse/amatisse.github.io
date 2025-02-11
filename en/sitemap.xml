@@ -129,6 +129,18 @@
                 href="https://amatisse.github.io/schools/univ-rennes/"
                 />
   </url><url>
+    <loc>https://amatisse.github.io/experiences/acensi_ai/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://amatisse.github.io/fr/experiences/acensi_ai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amatisse.github.io/experiences/acensi_ai/"
+                />
+  </url><url>
     <loc>https://amatisse.github.io/experiences/flexfuel/</loc>
     <xhtml:link
                 rel="alternate"
@@ -163,6 +175,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://amatisse.github.io/categories/"
+                />
+  </url><url>
+    <loc>https://amatisse.github.io/experiences/top_aces/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://amatisse.github.io/fr/experiences/top_aces/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amatisse.github.io/experiences/top_aces/"
                 />
   </url><url>
     <loc>https://amatisse.github.io/experiences/</loc>
@@ -237,6 +261,18 @@
                 href="https://amatisse.github.io/experiences/force_femmes/"
                 />
   </url><url>
+    <loc>https://amatisse.github.io/experiences/groupe_carbur/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://amatisse.github.io/fr/experiences/groupe_carbur/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amatisse.github.io/experiences/groupe_carbur/"
+                />
+  </url><url>
     <loc>https://amatisse.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -259,6 +295,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://amatisse.github.io/experiences/dreal_bretagne/"
+                />
+  </url><url>
+    <loc>https://amatisse.github.io/experiences/acensi_automation/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://amatisse.github.io/fr/experiences/acensi_automation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amatisse.github.io/experiences/acensi_automation/"
                 />
   </url>
 </urlset>

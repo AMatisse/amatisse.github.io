@@ -1,3 +1,9 @@
+@font-face {
+    font-family: 'NotoColorEmojiLimited';
+    unicode-range: U+1F1E6-1F1FF;
+    src: url(https://raw.githack.com/googlefonts/noto-emoji/main/fonts/NotoColorEmoji.ttf);
+}
+
 .experience {
     max-width: 880px;
     margin: 3rem auto;
@@ -177,6 +183,14 @@
 
 .back-link:hover::before {
     transform: translateX(-4px);
+}
+
+.flag {
+    display: inline-block;
+    font-size: 1.2em;
+    margin-right: 0.5em;
+    font-family: 'NotoColorEmojiLimited', -apple-system, BlinkMacSystemFont, "Segoe UI Emoji", "Segoe UI Symbol";
+    font-display: block;
 }
 
 @media (max-width: 768px) {

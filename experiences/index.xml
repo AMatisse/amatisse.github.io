@@ -13,6 +13,13 @@
     <language>en</language>
     <atom:link href="https://amatisse.github.io/experiences/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>AI System Developer</title>
+      <link>https://amatisse.github.io/experiences/acensi_ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://amatisse.github.io/experiences/acensi_ai/</guid>
+      <description>Development of an AI system for technical ticket management</description>
+    </item>
+    <item>
       <title>Android Developer</title>
       <link>https://amatisse.github.io/experiences/flexfuel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -25,6 +32,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://amatisse.github.io/experiences/jouve/</guid>
       <description>3-month internship at Jouve - Development of a demonstration Android application</description>
+    </item>
+    <item>
+      <title>DevOps Automation Engineer</title>
+      <link>https://amatisse.github.io/experiences/top_aces/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://amatisse.github.io/experiences/top_aces/</guid>
+      <description>Microsoft Forms to Azure DevOps automation implementation</description>
     </item>
     <item>
       <title>Front-End Developer</title>
@@ -62,11 +76,25 @@
       <description>18-month mission at Force Femmes - Development of a workshop management extranet</description>
     </item>
     <item>
+      <title>SharePoint Automation Specialist</title>
+      <link>https://amatisse.github.io/experiences/groupe_carbur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://amatisse.github.io/experiences/groupe_carbur/</guid>
+      <description>SharePoint List automation implementation</description>
+    </item>
+    <item>
       <title>Web Developer</title>
       <link>https://amatisse.github.io/experiences/dreal_bretagne/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://amatisse.github.io/experiences/dreal_bretagne/</guid>
       <description>2-month internship at DREAL Bretagne - Modernization of web applications</description>
+    </item>
+    <item>
+      <title>Workflow Automation Specialist</title>
+      <link>https://amatisse.github.io/experiences/acensi_automation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://amatisse.github.io/experiences/acensi_automation/</guid>
+      <description>Implementation of an internal workflow automation system</description>
     </item>
   </channel>
 </rss>
