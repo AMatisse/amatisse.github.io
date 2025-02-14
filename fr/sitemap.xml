@@ -2,6 +2,84 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://amatisse.github.io/fr/tags/automation/</loc>
+    <lastmod>2024-11-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amatisse.github.io/tags/automation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://amatisse.github.io/fr/tags/automation/"
+                />
+  </url><url>
+    <loc>https://amatisse.github.io/fr/blog/linkedin_power_automate/</loc>
+    <lastmod>2024-11-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amatisse.github.io/blog/linkedin_power_automate/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://amatisse.github.io/fr/blog/linkedin_power_automate/"
+                />
+  </url><url>
+    <loc>https://amatisse.github.io/fr/</loc>
+    <lastmod>2024-11-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amatisse.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://amatisse.github.io/fr/"
+                />
+  </url><url>
+    <loc>https://amatisse.github.io/fr/tags/power-automate/</loc>
+    <lastmod>2024-11-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amatisse.github.io/tags/power-automate/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://amatisse.github.io/fr/tags/power-automate/"
+                />
+  </url><url>
+    <loc>https://amatisse.github.io/fr/tags/productivity/</loc>
+    <lastmod>2024-11-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amatisse.github.io/tags/productivity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://amatisse.github.io/fr/tags/productivity/"
+                />
+  </url><url>
+    <loc>https://amatisse.github.io/fr/tags/</loc>
+    <lastmod>2024-11-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amatisse.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://amatisse.github.io/fr/tags/"
+                />
+  </url><url>
     <loc>https://amatisse.github.io/fr/schools/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -13,19 +91,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://amatisse.github.io/fr/schools/"
-                />
-  </url><url>
-    <loc>https://amatisse.github.io/fr/</loc>
-    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://amatisse.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://amatisse.github.io/fr/"
                 />
   </url><url>
     <loc>https://amatisse.github.io/fr/projects/simple-icons/</loc>
@@ -295,18 +360,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://amatisse.github.io/fr/experiences/groupe_carbur/"
-                />
-  </url><url>
-    <loc>https://amatisse.github.io/fr/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://amatisse.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://amatisse.github.io/fr/tags/"
                 />
   </url>
 </urlset>
