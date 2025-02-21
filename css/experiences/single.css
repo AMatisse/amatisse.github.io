@@ -98,21 +98,21 @@
 }
 
 .tech-tag {
-    background: linear-gradient(to right, rgba(99, 102, 241, 0.1), rgba(99, 102, 241, 0.05));
+    background: linear-gradient(to right, rgba(139, 92, 246, 0.1), rgba(139, 92, 246, 0.05));
     color: #8b5cf6;
     padding: 0.5rem 1.25rem;
     border-radius: 24px;
     font-size: 0.875rem;
     font-weight: 600;
     transition: all 0.2s ease;
-    border: 1px solid rgba(99, 102, 241, 0.2);
+    border: 1px solid rgba(139, 92, 246, 0.2);
     backdrop-filter: blur(4px);
 }
 
 .tech-tag:hover {
-    background: rgba(99, 102, 241, 0.15);
+    background: rgba(139, 92, 246, 0.15);
     transform: translateY(-2px);
-    box-shadow: 0 4px 6px rgba(99, 102, 241, 0.1);
+    box-shadow: 0 4px 6px rgba(139, 92, 246, 0.1);
 }
 
 .tech-icon {
@@ -234,7 +234,7 @@
     }
 
     .company-details .company {
-        color: #818cf8;
+        color: #8b5cf6;
     }
 
     .location, .contract, .duration {
@@ -242,9 +242,9 @@
     }
 
     .tech-tag {
-        background: rgba(99, 102, 241, 0.15);
-        color: #818cf8;
-        border-color: rgba(99, 102, 241, 0.3);
+        background: rgba(139, 92, 246, 0.15);
+        color: #8b5cf6;
+        border-color: rgba(139, 92, 246, 0.3);
     }
 
     .experience-content {
@@ -253,7 +253,7 @@
 
     .experience-content h2 {
         color: #e2e8f0;
-        border-color: #818cf8;
+        border-color: #8b5cf6;
     }
 
     .experience-content h3 {
@@ -261,7 +261,7 @@
     }
 
     .experience-content li::before {
-        color: #818cf8;
+        color: #8b5cf6;
     }
 
     .back-link {
@@ -269,7 +269,7 @@
     }
 
     .back-link:hover {
-        color: #818cf8;
+        color: #a78bfa;
     }
 }
 
@@ -292,7 +292,7 @@
 }
 
 .dark .company-details .company {
-    color: #818cf8;
+    color: #8b5cf6;
 }
 
 .dark .location, 
@@ -302,9 +302,9 @@
 }
 
 .dark .tech-tag {
-    background: rgba(99, 102, 241, 0.15);
-    color: #818cf8;
-    border-color: rgba(99, 102, 241, 0.3);
+    background: rgba(139, 92, 246, 0.15);
+    color: #8b5cf6;
+    border-color: rgba(139, 92, 246, 0.3);
 }
 
 .dark .experience-content {
@@ -313,7 +313,7 @@
 
 .dark .experience-content h2 {
     color: #e2e8f0;
-    border-color: #818cf8;
+    border-color: #8b5cf6;
 }
 
 .dark .experience-content h3 {
@@ -321,7 +321,7 @@
 }
 
 .dark .experience-content li::before {
-    color: #818cf8;
+    color: #8b5cf6;
 }
 
 .dark .back-link {
@@ -329,5 +329,5 @@
 }
 
 .dark .back-link:hover {
-    color: #818cf8;
+    color: #a78bfa;
 }

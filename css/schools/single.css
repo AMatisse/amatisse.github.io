@@ -87,8 +87,8 @@
 }
 
 .tech-tag {
-    background: rgba(99, 102, 241, 0.1);
-    color: #6366f1;
+    background: rgba(139, 92, 246, 0.1);
+    color: #8b5cf6;
     padding: 0.5rem 1rem;
     border-radius: 20px;
     font-size: 0.9rem;
@@ -100,7 +100,7 @@
 }
 
 .tech-tag:hover {
-    background: rgba(49, 130, 206, 0.15);
+    background: rgba(139, 92, 246, 0.15);
     transform: translateY(-1px);
 }
 
@@ -109,14 +109,14 @@
     align-items: center;
     gap: 0.5rem;
     margin: 2rem 0 1rem;
-    color: #64748b;
+    color: #8b5cf6;
     text-decoration: none;
     font-weight: 600;
     transition: all 0.3s ease;
 }
 
 .back-link:hover {
-    color: #3182ce;
+    color: #6d28d9;
     transform: translateX(-4px);
 }
 
@@ -166,20 +166,20 @@
     }
 
     .tech-tag {
-        background: rgba(49, 130, 206, 0.15);
-        color: #63b3ed;
+        background: rgba(139, 92, 246, 0.15);
+        color: #8b5cf6;
     }
 
     .result {
-        background: linear-gradient(to right, #818cf8, #a78bfa);
+        background: linear-gradient(to right, #8b5cf6, #8b5cf6);
     }
 
     .back-link {
-        color: #94a3b8;
+        color: #8b5cf6;
     }
 
     .back-link:hover {
-        color: #63b3ed;
+        color: #a78bfa;
     }
 }
 
@@ -204,18 +204,18 @@
 }
 
 .dark .tech-tag {
-    background: rgba(49, 130, 206, 0.15);
-    color: #63b3ed;
+    background: rgba(139, 92, 246, 0.15);
+    color: #8b5cf6;
 }
 
 .dark .result {
-    background: linear-gradient(to right, #818cf8, #a78bfa);
+    background: linear-gradient(to right, #8b5cf6, #8b5cf6);
 }
 
 .dark .back-link {
-    color: #94a3b8;
+    color: #8b5cf6;
 }
 
 .dark .back-link:hover {
-    color: #63b3ed;
+    color: #a78bfa;
 }
