@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.142.0</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://amatisse.github.io/fr/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contribution à la Documentation de CrewAI</title>
+      <link>https://amatisse.github.io/fr/projects/crewai-contribution/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://amatisse.github.io/fr/projects/crewai-contribution/</guid>
+      <description>Mise à jour de la documentation pour crewAI, un framework open-source pour orchestrer des agents IA autonomes.</description>
+    </item>
     <item>
       <title>Contribution à Simple Icons</title>
       <link>https://amatisse.github.io/fr/projects/simple-icons/</link>
