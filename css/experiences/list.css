@@ -54,23 +54,123 @@
     flex: 1;
     display: flex;
     flex-direction: column;
-    gap: 2rem;
+    gap: 1.5rem;
     max-width: 800px;
 }
 
-.filter-buttons {
+.filter-container {
+    background: rgba(255, 255, 255, 0.95);
+    border-radius: 16px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+    padding: 0;
+    border: 1px solid rgba(241, 245, 249, 0.8);
+    overflow: hidden;
+    transition: all 0.3s ease;
+}
+
+.filter-header {
     display: flex;
-    gap: 1rem;
-    padding: 0 1rem;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 1.5rem;
+    border-bottom: 1px solid transparent;
+}
+
+.filter-toggle-btn {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: none;
+    border: none;
+    color: #64748b;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    padding: 0.5rem 0;
+    transition: all 0.2s ease;
+}
+
+.filter-toggle-btn:hover {
+    color: #8b5cf6;
+}
+
+.filter-toggle-active {
+    color: #8b5cf6;
+}
+
+.filter-toggle-icon {
+    width: 1rem;
+    height: 1rem;
+    transition: transform 0.3s ease;
+}
+
+.filter-toggle-active .filter-toggle-icon {
+    transform: rotate(180deg);
+}
+
+.active-filters {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: #64748b;
+    font-size: 0.875rem;
+}
+
+.filter-separator {
+    color: #94a3b8;
+}
+
+.active-filter-type,
+.active-filter-tech {
+    font-weight: 500;
+    color: #8b5cf6;
+}
+
+.filter-section {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease, padding 0.3s ease;
+    padding: 0 1.5rem;
+}
+
+.filter-section-open {
+    max-height: 500px;
+    padding: 1rem 1.5rem 1.5rem;
+    border-top: 1px solid rgba(241, 245, 249, 0.8);
+}
+
+.filter-group {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    margin-bottom: 1.25rem;
+}
+
+.filter-group:last-child {
+    margin-bottom: 0;
+}
+
+.filter-heading {
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: #475569;
+    margin: 0;
+}
+
+.filter-buttons,
+.tech-filter-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
 }
 
 .filter-btn {
-    padding: 0.5rem 1.5rem;
+    padding: 0.375rem 1rem;
     border-radius: 20px;
     border: 1px solid rgba(99, 102, 241, 0.2);
     background: rgba(255, 255, 255, 0.95);
     color: #64748b;
-    font-size: 0.875rem;
+    font-size: 0.75rem;
     font-weight: 500;
     cursor: pointer;
     transition: all 0.2s ease;
@@ -278,9 +378,14 @@
         padding: 0;
     }
     
-    .filter-buttons {
+    .filter-buttons,
+    .tech-filter-buttons {
         padding: 0;
         flex-wrap: wrap;
+    }
+    
+    .filter-container {
+        margin: 0 1rem;
     }
 }
 
@@ -353,4 +458,30 @@
     background: #8b5cf6;
     color: #1e293b;
     border-color: #8b5cf6;
+}
+
+.dark .filter-heading {
+    color: #e2e8f0;
+}
+
+.dark .filter-container {
+    background: rgba(30, 41, 59, 0.95);
+    border-color: rgba(255, 255, 255, 0.1);
+}
+
+.dark .filter-section-open {
+    border-top-color: rgba(255, 255, 255, 0.1);
+}
+
+.dark .filter-toggle-btn {
+    color: #94a3b8;
+}
+
+.dark .filter-toggle-btn:hover,
+.dark .filter-toggle-active {
+    color: #8b5cf6;
+}
+
+.dark .active-filters {
+    color: #94a3b8;
 }
