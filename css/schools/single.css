@@ -1,13 +1,24 @@
 .school-single {
-    max-width: 1200px;
+    max-width: 900px;
     margin: 0 auto;
     padding: 2rem;
+}
+
+.school-single {
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(10px);
+    border-radius: 16px;
+    padding: 3rem;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.3);
 }
 
 .school-header {
     display: flex;
     gap: 2rem;
-    margin-bottom: 3rem;
+    margin-bottom: 2.5rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 2px solid rgba(99, 102, 241, 0.1);
     align-items: flex-start;
 }
 
@@ -16,11 +27,13 @@
 }
 
 .school-logo {
-    width: 120px;
-    height: 120px;
+    width: 80px;
+    height: 80px;
     object-fit: contain;
-    border-radius: 16px;
+    border-radius: 12px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 0.75rem;
+    background: white;
 }
 
 .school-info {
@@ -28,17 +41,29 @@
 }
 
 .school-name {
-    font-size: 2.5rem;
+    font-size: 2.25rem;
     font-weight: 700;
     color: #1e293b;
-    margin-bottom: 1rem;
+    margin-bottom: 1.5rem;
+    letter-spacing: -0.5px;
+    position: relative;
+}
+
+.school-name::after {
+    content: '';
+    position: absolute;
+    bottom: -1rem;
+    left: 0;
+    width: 60px;
+    height: 3px;
+    background: linear-gradient(to right, #8b5cf6, #8b5cf6);
 }
 
 .meta-info {
     display: flex;
     flex-wrap: wrap;
-    gap: 2rem;
-    margin-bottom: 2rem;
+    gap: 1.5rem;
+    margin-bottom: 1.5rem;
 }
 
 .meta-item {
@@ -46,7 +71,7 @@
     align-items: center;
     gap: 0.5rem;
     color: #64748b;
-    font-size: 1rem;
+    font-size: 0.95rem;
 }
 
 .result {
@@ -59,49 +84,63 @@
 }
 
 .content {
-    font-size: 1.1rem;
+    font-size: 1.05rem;
     line-height: 1.8;
     color: #475569;
 }
 
 .content h3 {
-    font-size: 1.5rem;
-    color: #1e293b;
+    font-size: 1.375rem;
+    color: #334155;
     margin: 2rem 0 1rem;
+    position: relative;
 }
 
 .content ul {
-    padding-left: 1.5rem;
-    margin-bottom: 1.5rem;
+    padding-left: 1.75rem;
+    margin: 1.5rem 0;
+    list-style: none;
 }
 
 .content li {
-    margin-bottom: 0.75rem;
+    margin-bottom: 1rem;
+    padding-left: 1.5rem;
+    position: relative;
+}
+
+.content li::before {
+    content: '▹';
+    position: absolute;
+    left: 0;
+    color: #8b5cf6;
 }
 
 .technologies {
     display: flex;
     flex-wrap: wrap;
     gap: 0.75rem;
-    margin-top: 2rem;
+    margin: 1.5rem 0;
 }
 
 .tech-tag {
-    background: rgba(139, 92, 246, 0.1);
+    background: linear-gradient(to right, rgba(139, 92, 246, 0.1), rgba(139, 92, 246, 0.05));
     color: #8b5cf6;
-    padding: 0.5rem 1rem;
-    border-radius: 20px;
-    font-size: 0.9rem;
-    font-weight: 500;
+    padding: 0.5rem 1.25rem;
+    border-radius: 24px;
+    font-size: 0.875rem;
+    font-weight: 600;
+    transition: all 0.2s ease;
+    border: 1px solid rgba(139, 92, 246, 0.2);
+    backdrop-filter: blur(4px);
     display: flex;
     align-items: center;
     gap: 0.5rem;
-    transition: all 0.2s ease;
 }
 
 .tech-tag:hover {
     background: rgba(139, 92, 246, 0.15);
-    transform: translateY(-1px);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 6px rgba(139, 92, 246, 0.1);
 }
 
 .back-link {
@@ -109,14 +148,16 @@
     align-items: center;
     gap: 0.5rem;
     margin: 2rem 0 1rem;
-    color: #8b5cf6;
+    color: #64748b;
     text-decoration: none;
     font-weight: 600;
     transition: all 0.3s ease;
+    position: relative;
+    z-index: 1;
 }
 
 .back-link:hover {
-    color: #6d28d9;
+    color: #8b5cf6;
     transform: translateX(-4px);
 }
 
@@ -130,6 +171,11 @@
 }
 
 @media (max-width: 768px) {
+    .school-single {
+        padding: 1.5rem;
+        margin: 1.5rem;
+    }
+
     .school-header {
         flex-direction: column;
         gap: 1.5rem;
@@ -142,15 +188,29 @@
     .meta-info {
         gap: 1rem;
     }
+    
+    .school-logo {
+        width: 64px;
+        height: 64px;
+    }
 }
 
 @media (prefers-color-scheme: dark) {
+    .school-single {
+        background: rgba(30, 41, 59, 0.95);
+        border-color: rgba(255, 255, 255, 0.1);
+    }
+
     .school-logo {
-        background: #2d3748;
+        background: rgba(15, 23, 42, 0.7);
     }
 
     .school-name {
         color: #f8fafc;
+    }
+    
+    .school-name::after {
+        background: linear-gradient(to right, #818cf8, #a78bfa);
     }
 
     .meta-item {
@@ -164,18 +224,23 @@
     .content h3 {
         color: #e2e8f0;
     }
+    
+    .content li::before {
+        color: #8b5cf6;
+    }
 
     .tech-tag {
         background: rgba(139, 92, 246, 0.15);
         color: #8b5cf6;
+        border-color: rgba(139, 92, 246, 0.3);
     }
 
     .result {
-        background: linear-gradient(to right, #8b5cf6, #8b5cf6);
+        background: linear-gradient(to right, #818cf8, #8b5cf6);
     }
 
     .back-link {
-        color: #8b5cf6;
+        color: #94a3b8;
     }
 
     .back-link:hover {
@@ -183,12 +248,21 @@
     }
 }
 
+.dark .school-single {
+    background: rgba(30, 41, 59, 0.95);
+    border-color: rgba(255, 255, 255, 0.1);
+}
+
 .dark .school-logo {
-    background: #2d3748;
+    background: rgba(15, 23, 42, 0.7);
 }
 
 .dark .school-name {
     color: #f8fafc;
+}
+
+.dark .school-name::after {
+    background: linear-gradient(to right, #818cf8, #a78bfa);
 }
 
 .dark .meta-item {
@@ -203,17 +277,22 @@
     color: #e2e8f0;
 }
 
+.dark .content li::before {
+    color: #8b5cf6;
+}
+
 .dark .tech-tag {
     background: rgba(139, 92, 246, 0.15);
     color: #8b5cf6;
+    border-color: rgba(139, 92, 246, 0.3);
 }
 
 .dark .result {
-    background: linear-gradient(to right, #8b5cf6, #8b5cf6);
+    background: linear-gradient(to right, #818cf8, #8b5cf6);
 }
 
 .dark .back-link {
-    color: #8b5cf6;
+    color: #94a3b8;
 }
 
 .dark .back-link:hover {
