@@ -279,6 +279,18 @@
                 href="https://amatisse.github.io/fr/experiences/leroy_merlin/"
                 />
   </url><url>
+    <loc>https://amatisse.github.io/fr/experiences/neatro/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amatisse.github.io/experiences/neatro/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://amatisse.github.io/fr/experiences/neatro/"
+                />
+  </url><url>
     <loc>https://amatisse.github.io/fr/experiences/aluk/</loc>
     <xhtml:link
                 rel="alternate"
