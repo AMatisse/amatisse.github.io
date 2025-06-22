@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Gestion De Projet on Portfolio - AMatisse</title>
+    <link>https://amatisse.github.io/fr/tags/gestion-de-projet/</link>
+    <description>Recent content in Gestion De Projet on Portfolio - AMatisse</description>
+    <image>
+      <title>Portfolio - AMatisse</title>
+      <url>https://amatisse.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://amatisse.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.146.0</generator>
+    <language>fr</language>
+    <lastBuildDate>Thu, 19 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://amatisse.github.io/fr/tags/gestion-de-projet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>L’intelligence artificielle au service de la gestion de projet : une révolution?</title>
+      <link>https://amatisse.github.io/fr/blog/linkedin_ai_gestion_projet/</link>
+      <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://amatisse.github.io/fr/blog/linkedin_ai_gestion_projet/</guid>
+      <description>Exploration de l&amp;#39;impact de l&amp;#39;intelligence artificielle sur la gestion de projet, ses bénéfices, défis et perspectives pour les professionnels.</description>
+    </item>
+  </channel>
+</rss>

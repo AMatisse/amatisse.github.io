@@ -9,10 +9,31 @@
       <url>https://amatisse.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://amatisse.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.142.0</generator>
+    <generator>Hugo -- 0.146.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 26 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://amatisse.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>https://amatisse.github.io/tags/artificial-intelligence/</link>
+      <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://amatisse.github.io/tags/artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Digital Transformation</title>
+      <link>https://amatisse.github.io/tags/digital-transformation/</link>
+      <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://amatisse.github.io/tags/digital-transformation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Project Management</title>
+      <link>https://amatisse.github.io/tags/project-management/</link>
+      <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://amatisse.github.io/tags/project-management/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Automation</title>
       <link>https://amatisse.github.io/tags/automation/</link>

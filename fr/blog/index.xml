@@ -9,10 +9,17 @@
       <url>https://amatisse.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://amatisse.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.142.0</generator>
+    <generator>Hugo -- 0.146.0</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 26 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://amatisse.github.io/fr/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>L’intelligence artificielle au service de la gestion de projet : une révolution?</title>
+      <link>https://amatisse.github.io/fr/blog/linkedin_ai_gestion_projet/</link>
+      <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://amatisse.github.io/fr/blog/linkedin_ai_gestion_projet/</guid>
+      <description>Exploration de l&amp;#39;impact de l&amp;#39;intelligence artificielle sur la gestion de projet, ses bénéfices, défis et perspectives pour les professionnels.</description>
+    </item>
     <item>
       <title>La révolution de l’automatisation avec Power Automate : 3 exemples qui changent tout.</title>
       <link>https://amatisse.github.io/fr/blog/linkedin_power_automate/</link>

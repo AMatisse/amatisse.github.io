@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://amatisse.github.io/fr/tags/gestion-de-projet/</loc>
+    <lastmod>2025-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://amatisse.github.io/fr/tags/intelligence-artificielle/</loc>
+    <lastmod>2025-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://amatisse.github.io/fr/blog/linkedin_ai_gestion_projet/</loc>
+    <lastmod>2025-06-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amatisse.github.io/blog/linkedin_ai_gestion_projet/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://amatisse.github.io/fr/blog/linkedin_ai_gestion_projet/"
+                />
+  </url><url>
+    <loc>https://amatisse.github.io/fr/</loc>
+    <lastmod>2025-06-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amatisse.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://amatisse.github.io/fr/"
+                />
+  </url><url>
+    <loc>https://amatisse.github.io/fr/tags/</loc>
+    <lastmod>2025-06-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amatisse.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://amatisse.github.io/fr/tags/"
+                />
+  </url><url>
+    <loc>https://amatisse.github.io/fr/tags/transformation-digitale/</loc>
+    <lastmod>2025-06-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://amatisse.github.io/fr/projects/crewai-contribution/</loc>
     <lastmod>2025-03-21T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -13,19 +61,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://amatisse.github.io/fr/projects/crewai-contribution/"
-                />
-  </url><url>
-    <loc>https://amatisse.github.io/fr/</loc>
-    <lastmod>2025-03-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://amatisse.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://amatisse.github.io/fr/"
                 />
   </url><url>
     <loc>https://amatisse.github.io/fr/projects/</loc>
@@ -91,19 +126,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://amatisse.github.io/fr/tags/productivity/"
-                />
-  </url><url>
-    <loc>https://amatisse.github.io/fr/tags/</loc>
-    <lastmod>2024-11-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://amatisse.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://amatisse.github.io/fr/tags/"
                 />
   </url><url>
     <loc>https://amatisse.github.io/fr/schools/</loc>
