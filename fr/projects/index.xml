@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.146.0</generator>
     <language>fr</language>
-    <lastBuildDate>Fri, 21 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://amatisse.github.io/fr/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contribution à la Documentation Context7</title>
+      <link>https://amatisse.github.io/fr/projects/context7-contribution/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://amatisse.github.io/fr/projects/context7-contribution/</guid>
+      <description>Contribution à la documentation du serveur MCP Context7 en ajoutant les instructions d&amp;#39;intégration Copilot Coding Agent dans plusieurs langues.</description>
+    </item>
     <item>
       <title>Contribution à la Documentation de CrewAI</title>
       <link>https://amatisse.github.io/fr/projects/crewai-contribution/</link>
