@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.146.0</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 15 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://amatisse.github.io/fr/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zeno - Compagnon de Concentration</title>
+      <link>https://amatisse.github.io/fr/projects/zeno/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://amatisse.github.io/fr/projects/zeno/</guid>
+      <description>Boostez votre concentration et battez la procrastination. Minuteur calme et écran ambiant pour le travail et l&amp;#39;étude.</description>
+    </item>
     <item>
       <title>Contribution à la Documentation Context7</title>
       <link>https://amatisse.github.io/fr/projects/context7-contribution/</link>

@@ -2,21 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://amatisse.github.io/projects/context7-contribution/</loc>
-    <lastmod>2025-07-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://amatisse.github.io/fr/projects/context7-contribution/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://amatisse.github.io/projects/context7-contribution/"
-                />
-  </url><url>
     <loc>https://amatisse.github.io/projects/</loc>
-    <lastmod>2025-07-15T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -29,7 +16,7 @@
                 />
   </url><url>
     <loc>https://amatisse.github.io/</loc>
-    <lastmod>2025-07-15T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -39,6 +26,32 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://amatisse.github.io/"
+                />
+  </url><url>
+    <loc>https://amatisse.github.io/projects/zeno/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://amatisse.github.io/fr/projects/zeno/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amatisse.github.io/projects/zeno/"
+                />
+  </url><url>
+    <loc>https://amatisse.github.io/projects/context7-contribution/</loc>
+    <lastmod>2025-07-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://amatisse.github.io/fr/projects/context7-contribution/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amatisse.github.io/projects/context7-contribution/"
                 />
   </url><url>
     <loc>https://amatisse.github.io/tags/artificial-intelligence/</loc>
