@@ -2,21 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://amatisse.github.io/fr/</loc>
-    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://amatisse.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://amatisse.github.io/fr/"
-                />
-  </url><url>
     <loc>https://amatisse.github.io/fr/projects/</loc>
-    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -26,6 +13,32 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://amatisse.github.io/fr/projects/"
+                />
+  </url><url>
+    <loc>https://amatisse.github.io/fr/projects/narrata/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amatisse.github.io/projects/narrata/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://amatisse.github.io/fr/projects/narrata/"
+                />
+  </url><url>
+    <loc>https://amatisse.github.io/fr/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amatisse.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://amatisse.github.io/fr/"
                 />
   </url><url>
     <loc>https://amatisse.github.io/fr/projects/zeno/</loc>
@@ -409,6 +422,18 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://amatisse.github.io/fr/experiences/top_aces/"
+                />
+  </url><url>
+    <loc>https://amatisse.github.io/fr/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amatisse.github.io/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://amatisse.github.io/fr/search/"
                 />
   </url><url>
     <loc>https://amatisse.github.io/fr/experiences/acensi_automation/</loc>

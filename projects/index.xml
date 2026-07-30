@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Personal Projects on Portfolio - AMatisse</title>
+    <title>My Projects Portfolio on Portfolio - AMatisse</title>
     <link>https://amatisse.github.io/projects/</link>
-    <description>Recent content in Personal Projects on Portfolio - AMatisse</description>
+    <description>Recent content in My Projects Portfolio on Portfolio - AMatisse</description>
     <image>
       <title>Portfolio - AMatisse</title>
-      <url>https://amatisse.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://amatisse.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://amatisse.github.io/favicon.svg</url>
+      <link>https://amatisse.github.io/favicon.svg</link>
     </image>
-    <generator>Hugo -- 0.146.0</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://amatisse.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Narrata - Your ebooks narrated</title>
+      <link>https://amatisse.github.io/projects/narrata/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://amatisse.github.io/projects/narrata/</guid>
+      <description>Read your EPUB and PDF files or listen through text-to-speech in a private local library designed to work offline.</description>
+    </item>
     <item>
       <title>Zeno - Concentration Companion</title>
       <link>https://amatisse.github.io/projects/zeno/</link>
