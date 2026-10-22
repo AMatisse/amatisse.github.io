@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://amatisse.github.io/fr/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Karro</title>
+      <link>https://amatisse.github.io/fr/projects/karro/</link>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://amatisse.github.io/fr/projects/karro/</guid>
+      <description>Une application iOS et Android pour générer un menu personnalisé, préparer sa liste d’épicerie et comparer les totaux estimés dans les épiceries couvertes au Québec.</description>
+    </item>
     <item>
       <title>Narrata - Vos ebooks racontés</title>
       <link>https://amatisse.github.io/fr/projects/narrata/</link>

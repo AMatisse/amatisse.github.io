@@ -29,7 +29,7 @@
     });
 
     window.addEventListener('resize', () => {
-        if (window.matchMedia('(min-width: 901px)').matches) {
+        if (window.matchMedia('(min-width: 761px)').matches) {
             setMenuState(false);
         }
     });
